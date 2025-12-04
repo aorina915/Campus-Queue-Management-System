@@ -1,0 +1,25 @@
+{
+  "name": "campusqueuep-patterns",
+  "version": "1.0.0",
+  "description": "Demo project implementing 6 GoF design patterns for CampusQueueP",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js"
+  },
+  "keywords": [
+    "design-patterns",
+    "abstract-factory",
+    "builder",
+    "adapter",
+    "facade",
+    "strategy",
+    "observer",
+    "campusqueuep"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "package-name": "^0.1.0"
+  }
+}
